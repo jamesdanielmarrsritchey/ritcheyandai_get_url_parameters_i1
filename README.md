@@ -1,1 +1,0 @@
-# ritcheyandai_get_url_parameters_i1
